@@ -7,7 +7,11 @@ function Hero() {
 				<button
 					type="button"
 					onClick={() => {
-						window.open('');
+						window.open(
+							'https://github.com/sinhadityaforever/artiscan',
+							'_blank',
+							'noreferrer'
+						);
 					}}
 					className="black_btn"
 				>
